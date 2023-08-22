@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+   
+}
+body{
+    background-color:#7164fb;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.userCotainer{
+    height: 400px;
+    width: 300px;
+   font-weight: 400;
+    margin: 20px auto;
+    border: 1px solid;
+   border-radius: 6px;
+   align-items: center;
+   text-align: center;
+   background-color:#d7dfe5;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   box-shadow: 1px 11px 11px 1px;
+}
+#image{
+    align-items: center;
+    margin: 20px auto;
+    display: flex;
+    justify-content: center;
+}
+#refreshButton{
+    padding: 10px;
+    color: black;
+    background-color: #7164fb;
+    border-radius: 6px;
+    margin: 30px auto;
+}
